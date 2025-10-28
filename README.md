@@ -2,4 +2,3 @@
 This is the Demo for Git &amp; Github classes.
 
 
-# teacher 
